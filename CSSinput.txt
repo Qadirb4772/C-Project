@@ -1,0 +1,42 @@
+Monday
+         Programming         10:00-11:00
+  	     English         11:30-12:30
+                 Ict         01:00-02:00
+       Discrete Math         02:00-04:00
+            Islamiat         04:30-06:00
+Tuesday
+             English         11:00-12:00
+         Programming         12:30-01:00
+       Discrete Math         01:30-04:00
+                 Ict         04:30-05:30
+    Pakistan Studies         06:00-07:00
+Wednesday
+         Programming         10:00-12:00
+  	     English         12:30-01:30
+       Discrete Math         02:00-04:00
+                 Ict         04:30-05:30
+            Islamiat         06:00-07:00
+Thursday
+         Programming         11:00-12:00
+             English         01:00-02:00
+       Discrete Math         02:30-04:30
+                 Ict         05:00-06:00
+            Islamiat         06:00-07:00
+Friday
+         Programming         12:00-01:30
+             English         02:30-03:30
+       Discrete Math         04:00-06:00
+                 Ict         06:00-07:00
+    Pakistan Studies         07:00-08:00
+Saturday
+             English         10:00-11:30
+         Programming         12:00-02:00
+       Discrete Math         02:30-03:30
+                 Ict         04:00-05:00
+            Islamiat         05:30-07:00
+Sunday
+             English         10:00-11:00
+         Programming         12:00-01:30
+       Discrete Math         02:00-04:00
+                 Ict         05:30-06:30
+    Pakistan Studies         06:30-07:30
